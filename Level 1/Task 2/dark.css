@@ -15,7 +15,6 @@ h1,h2,h3,h4,h5{
 .container{
     display: flex;
     width: 1440px;
-    height: 8063px;
     justify-content: space-between;
     gap: 30px;
     margin: 0 auto;
